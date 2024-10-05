@@ -1,4 +1,4 @@
-import 'package:app/constant.dart'; // استيراد ملف الألوان
+import 'package:app/constant.dart'; 
 import 'package:app/controller/controller.dart';
 import 'package:app/model/flowercart.dart';
 import 'package:app/model/locale/local.dart';

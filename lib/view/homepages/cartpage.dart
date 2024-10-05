@@ -69,7 +69,7 @@ class MyCartPage extends StatelessWidget {
                   padding: EdgeInsets.symmetric(horizontal: 50, vertical: 15),
                 ),
                 onPressed: () {
-                  Get.toNamed("/payment");
+                  Get.toNamed("/pymant");
                 },
                 child: Text(
                   'Continue',
